@@ -1,0 +1,2 @@
+trip_id,type,start_utc_iso,end_utc_iso,duration_s,peak_c
+trip-report-0001,HEAT,2026-01-01T00:04:00.000Z,2026-01-01T00:08:00.000Z,240,9.30

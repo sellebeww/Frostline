@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2026 Vassel Goleyu. Licensed under the MIT License. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyEllipsis">
+    <string name="sim_all">Simulasi: semua skenario berurutan</string>
+    <string name="sim_stable">Simulasi: stabil 5 °C</string>
+    <string name="sim_heat">Simulasi: pemanasan ke 10 °C</string>
+    <string name="sim_freeze">Simulasi: turun ke -1 °C</string>
+    <string name="sim_dropout">Simulasi: sensor putus 10 menit</string>
+    <string name="sim_oscillate">Simulasi: berosilasi sekitar 8 °C</string>
+    <string name="debug_tap_title">Debug: simulasikan tap tag</string>
+    <string name="debug_settings_title">Mode simulator (debug)</string>
+    <string name="debug_settings_text">Sensor "Simulasi: ..." tersedia di daftar Pilih sensor, berjalan 10x lebih cepat. Di layar Serah-terima ada tombol tap tag simulasi. Bagian ini tidak ada di build rilis.</string>
+</resources>
